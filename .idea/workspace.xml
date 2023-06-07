@@ -4,11 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd0300b3-8a51-4cee-b12a-506e38a1c363" name="Changes" comment="" />
+    <list default="true" id="bd0300b3-8a51-4cee-b12a-506e38a1c363" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/constants/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/constants/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/constants/WaitTimeouts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/constants/WaitTimeouts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/ChromeDriverCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/ChromeDriverCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/DriverProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/DriverProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/EdgeDriverCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/EdgeDriverCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/FirefoxDriverCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/FirefoxDriverCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/WebDriverCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/framework/WebDriverCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/navigation/ABtastyNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/navigation/ABtastyNavigation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/navigation/ABtastyUrls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/navigation/ABtastyUrls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ab_tasty/pages/SsoLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ab_tasty/pages/SsoLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com.ab_tasty/hooks/ScreenshotHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com.ab_tasty/hooks/ScreenshotHook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com.ab_tasty/steps/StepsDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com.ab_tasty/steps/StepsDefinition.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QkQk6IIO1MHpHjQNUrB57wIYNO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +53,166 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/anduser/IdeaProjects/CucumberProject",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anduser\IdeaProjects\ABTastyQATest\src\test\resources\com.ab_tasty.features" />
+      <recent name="C:\Users\anduser\IdeaProjects\ABTastyQATest\src\test\java\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: The default error message is displayed after user sign in with invalid email/password">
+    <configuration name="Feature: LogInPage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com.ab_tasty.features/LogInPage.feature" />
+      <option name="GLUE" value="com.ab_tasty.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ABTastyQATest" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: LogInPage" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: The Login Captcha is displayed after 3 wrong user's attempts to sign in with invalid email/password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com.ab_tasty.features/LogInPage.feature" />
+      <option name="GLUE" value="com.ab_tasty.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ABTastyQATest" />
+      <option name="NAME_FILTER" value="^The Login Captcha is displayed after 3 wrong user\'s attempts to sign in with invalid email\/password$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^The Login Captcha is displayed after 3 wrong user\'s attempts to sign in with invalid email\/password$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: The Login Captcha is displayed after 3 wrong user's attempts to sign in with invalid email/password" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: The default error message is displayed after user sign in with invalid email/password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com.ab_tasty.features/LogInPage.feature" />
+      <option name="GLUE" value="com.ab_tasty.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ABTastyQATest" />
+      <option name="NAME_FILTER" value="^The default error message is displayed after user sign in with invalid email\/password$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^The default error message is displayed after user sign in with invalid email\/password$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: The default error message is displayed after user sign in with invalid email/password" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: The email must be recognised in the database else default error message for invalide email/password (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com.ab_tasty.features/LogInPage.feature" />
+      <option name="GLUE" value="com.ab_tasty.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ABTastyQATest" />
+      <option name="NAME_FILTER" value="^The email must be recognised in the database else default error message for invalide email\/password$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^The email must be recognised in the database else default error message for invalide email\/password$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: The email must be recognised in the database else default error message for invalide email/password" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: The user can use the SSO login link below" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com.ab_tasty.features/LogInPage.feature" />
+      <option name="GLUE" value="com.ab_tasty.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ABTastyQATest" />
+      <option name="NAME_FILTER" value="^The user can use the SSO login link below$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^The user can use the SSO login link below$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: The user can use the SSO login link below" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ABTastyQATest [clean...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="-Dtest=CucumberTestRunner" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: LogInPage" />
+      <item itemvalue="Cucumber Java.Scenario: The Login Captcha is displayed after 3 wrong user's attempts to sign in with invalid email/password" />
+      <item itemvalue="Cucumber Java.Scenario: The user can use the SSO login link below" />
+      <item itemvalue="Cucumber Java.Scenario: The default error message is displayed after user sign in with invalid email/password" />
+      <item itemvalue="Cucumber Java.Scenario: The email must be recognised in the database else default error message for invalide email/password (1)" />
+      <item itemvalue="Maven.ABTastyQATest [clean...]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: The default error message is displayed after user sign in with invalid email/password" />
+        <item itemvalue="Cucumber Java.Scenario: The Login Captcha is displayed after 3 wrong user's attempts to sign in with invalid email/password" />
+        <item itemvalue="Cucumber Java.Feature: LogInPage" />
+        <item itemvalue="Cucumber Java.Scenario: The user can use the SSO login link below" />
+        <item itemvalue="Cucumber Java.Scenario: The email must be recognised in the database else default error message for invalide email/password (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +223,16 @@
       <updated>1685895240862</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
